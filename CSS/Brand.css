@@ -1,0 +1,12 @@
+.cccc{
+    background-image: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.aaa{
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
